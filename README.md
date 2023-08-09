@@ -21,20 +21,23 @@ and more.
 ## Technologies Used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Sass](https://sass-lang.com/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+
+
 
 ## Getting Started
 
-To get started with the Ohmyfood project, follow the steps below:
+To get started with the Booki project, follow the steps below:
 
 1. Clone the repository:
 
    ```shell
-   git clone git@github.com:Axda-Web/ohMyFood.git
+   git clone git@github.com:Axda-Web/booki.git
    ```
 
 2. Open the project with the IDE (e.g. [VSCode](https://code.visualstudio.com/)) of your choice:
 
 3. Open the `index.html` file in your favorite browser:
 
-A deployed version of the Ohmyfood project is available on Vercel at [Ohmyfood](https://oh-my-food-kappa.vercel.app/).
+A deployed version of the Booki project is available on Vercel at [Booki](https://booki-rho.vercel.app/).
