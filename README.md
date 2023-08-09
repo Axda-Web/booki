@@ -1,7 +1,7 @@
 # Booki
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square)](https://sass-lang.com/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ![screenshot](/screenshot.jpg)
 
